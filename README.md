@@ -142,12 +142,6 @@ adb install android/app/build/outputs/apk/release/app-release.apk
 
 ---
 
-## Screenshots
-
-> *(Add screenshots of the running app here)*
-
----
-
 ## Troubleshooting
 
 **Permission denied on gradlew**
